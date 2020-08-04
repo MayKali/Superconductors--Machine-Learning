@@ -1,1 +1,1 @@
-# image-segmentation
+# Introduction to Machine Learning in Materials
