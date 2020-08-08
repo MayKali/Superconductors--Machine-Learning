@@ -1,3 +1,6 @@
 # Introduction to Machine Learning in Materials
 
-Will Update
+
+
+
+* [Explanation](https://www.youtube.com/watch?v=ev07NiqeeUM&t=1378s)
