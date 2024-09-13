@@ -2,7 +2,7 @@
 
 Code for the critical temperature prediction model I wrote in the video. The goal was to provide an introduction to others on how and why machine learning is useful in the field of materials science. 
 
-[![Link to the explanation video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=bq95oFRvFto)
+[![Link to the explanation video](https://img.youtube.com/vi/bq95oFRvFto/maxresdefault.jpg)](https://www.youtube.com/watch?v=bq95oFRvFto)
 
 ## Links
 * [Superconductivity Data Set](https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data)
