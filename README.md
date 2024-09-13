@@ -1,6 +1,9 @@
 # Machine Learning to predict the critical temperature of superconductors
 
-Code for the critical temperature prediction model I wrote in the video. The goal was to provide an introduction to others on how and why machine learning is useful in the field of materials science. [Link to the explanation video](https://www.youtube.com/watch?v=bq95oFRvFto)
+Code for the critical temperature prediction model I wrote in the video. The goal was to provide an introduction to others on how and why machine learning is useful in the field of materials science. 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bq95oFRvFto" frameborder="0" allowfullscreen></iframe>
 
 ## Links
 * [Superconductivity Data Set](https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data)
